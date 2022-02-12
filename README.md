@@ -35,11 +35,11 @@ Full API documentation can be found at [Poke API](https://pokeapi.co/docs/v2.htm
 ## Getting Started
 
 ```bash
-go get github.com/mtslzr/pokeapi-go
+go get github.com/Jayakiranpasumarthi/pokeapi-go
 ```
 
 ```go
-import "github.com/mtslzr/pokeapi-go"
+import "github.com/Jayakiranpasumarthi/pokeapi-go"
 ```
 
 ## Endpoints
