@@ -3,7 +3,7 @@ package pokeapi
 import (
 	"fmt"
 
-	"github.com/mtslzr/pokeapi-go/structs"
+	"github.com/Jayakiranpasumarthi/pokeapi-go/structs"
 )
 
 // Item returns a single item (by name or ID).
