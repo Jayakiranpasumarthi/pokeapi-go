@@ -410,6 +410,7 @@ type PokemonSpecies struct {
 	HatchCounter         int    `json:"hatch_counter"`
 	ID                   int    `json:"id"`
 	IsBaby               bool   `json:"is_baby"`
+	IsLegendary	     bool   `json:"is_legendary"`
 	Name                 string `json:"name"`
 	Names                []struct {
 		Language struct {
